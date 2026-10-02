@@ -4,7 +4,7 @@ import 'package:flutter/foundation.dart';
 // A utility class for global constants and helper functions.
 class AppGlobals {
   // --- PocketBase Configuration ---
-  static const String pocketbaseUrl = 'https://irvannitest.alwaysdata.net';
+  static const String pocketbaseUrl = 'http://152.70.169.194:51004';
   
   static const String pocketbaseCollection = 'asso_asso_sessions';
 
